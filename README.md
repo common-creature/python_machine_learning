@@ -1,2 +1,2 @@
 # python_machine_learning
-machine learning models in python
+machine learning codes on regression, classification, deep learnig, product recommendations
